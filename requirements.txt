@@ -1,0 +1,5 @@
+discord.py
+aiohttp
+apscheduler
+twitch-python
+google-api-python-client
